@@ -154,11 +154,9 @@ MPI,400,2,0.001890
 ├── plot_scaling.py             # Skripta za analizu performansi
 ├── input_files/                # Direktorijum za ulazne fajlove
 │   ├── points_400.txt
-│   ├── points_4000.txt
 │   └── ...
 ├── output_files/               # Direktorijum za izlazne fajlove
 │   ├── clusters.txt
-│   ├── results_scaling.csv
 │   └── ...
 └── images/                     # Direktorijum za grafike
     ├── scaling_omp.png
